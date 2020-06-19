@@ -19,13 +19,13 @@ To view the mesh structrure i.e. connection between nodes, serially connect the 
 Now you have to install paho python client.This code provides a client class which enable applications to connect to an MQTT broker to publish messages, and to subscribe to topics and receive published messages. you can visit [here](https://pypi.org/project/paho-mqtt/) for installation instructions.
 
 #### 3. Install matplotlib
-Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. you can visit [here]([https://pypi.org/project/matplotlib/](https://pypi.org/project/matplotlib/)) for installation instructions.
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. you can visit [here](https://pypi.org/project/matplotlib/) for installation instructions.
 
 #### 4. Install networkx
-NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. you can visit [here]([https://pypi.org/project/networkx/](https://pypi.org/project/networkx/)) for installation instructions.
+NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. you can visit [here](https://pypi.org/project/networkx/) for installation instructions.
 
 #### 5. Install numpy
-NumPy is the fundamental package for array computing with Python. you can visit [here]([https://pypi.org/project/numpy/](https://pypi.org/project/numpy/)) for installation instructions.
+NumPy is the fundamental package for array computing with Python. you can visit [here](https://pypi.org/project/numpy/) for installation instructions.
 
 
 
