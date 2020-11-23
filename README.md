@@ -9,7 +9,7 @@ Mesh network visualisaion formed through painlessMesh Library using python.
 
 I have made a Self-assembling mesh network using ESP8266. 1 ESP8266 works as a root node (bridge) between mqtt broker and other ESP8266s work as a node in the mesh. The mqtt broker receives messages from the root node and save it in the text file. Any message from the root node can be broadcast to all node as well as send to a single node. The mqtt broker can send or receive messages by subscribing or publishing a topic respectively. 
 
-To view the mesh structrure i.e. connection between nodes, serially connect the root node (mqtt bridge) with your PC/Laptop via a USB cable. Upload the RootNode sktech from my another repository i.e. [here]([https://github.com/gshubham586/ESP8266MqttMESH_ADHOC](https://github.com/gshubham586/ESP8266MqttMESH_ADHOC)) and run the above python code with few changes as directed in the python program.
+To view the mesh structrure i.e. connection between nodes, serially connect the root node (mqtt bridge) with your PC/Laptop via a USB cable. Upload the RootNode sktech from my another repository i.e. [here](https://github.com/gshubham586/ESP8266MqttMESH_ADHOC) and run the above python code with few changes as directed in the python program.
 
 ## Installations
 
